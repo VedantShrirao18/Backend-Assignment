@@ -85,11 +85,11 @@ Endpoints
 
 ## Screenshots
 
-![Screenshot from 2024-05-09 00-49-07](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/6eb48e0f-b12b-4d3e-bc28-3d78cf17d915)
+![Screenshot from 2024-05-09 00-49-07](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/80d47ca5-5eba-4ac7-921d-e327d064418c)
 
-![Screenshot from 2024-05-09 00-49-22](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/82a82ecb-60bf-4ea3-917b-27aef83ca937)
+![Screenshot from 2024-05-09 00-49-22](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/6b61e76f-b970-4725-9c42-7476b5b85075)
 
-![Screenshot from 2024-05-09 00-49-43](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/f350a1a4-cdf8-4330-90c8-87415f1b92e8)
+![Screenshot from 2024-05-09 00-49-43](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/763cb6d3-0df2-40d2-aa47-bc93ead69b8d)
 
 ![Screenshot from 2024-05-09 00-49-53](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/04612332-bc96-4609-bb0f-4043f82bfb0c)
 
@@ -111,10 +111,11 @@ The database model for the Assistant includes the following fields:
 
 
 ## Screenshots
+![Screenshot from 2024-05-09 01-18-42](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/1cd81b6a-4ede-4fea-a3bc-fc3693377722)
 
-![Screenshot from 2024-05-08 22-34-04](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/8118ff71-0d71-4408-bdbc-f66729a2253c)
+![Screenshot from 2024-05-08 22-34-04](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/18f9755f-0c8c-494d-9633-bad467b11d77)
 
-![Screenshot from 2024-05-09 01-18-42](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/b0cd3d0b-564e-4abb-9798-d73837588aa6)
+
 
 
 
