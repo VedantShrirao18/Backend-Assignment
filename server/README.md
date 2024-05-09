@@ -87,14 +87,11 @@ Endpoints
 
 ![Screenshot from 2024-05-09 00-49-07](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/ddbf0de6-cff2-439e-a6e6-6ee17ee84ba1)
 
-![Screenshot from 2024-05-09 00-49-43](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/bb16a920-94a2-4df9-bee7-6030b41ac424)
-
 ![Screenshot from 2024-05-09 00-49-22](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/cd17c75c-533c-4573-ba89-a463e998676f)
 
-![Screenshot from 2024-05-09 00-49-07](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/9f1e91d3-62af-4348-b7fb-7882f90f2d78)
+![Screenshot from 2024-05-09 00-49-43](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/bb16a920-94a2-4df9-bee7-6030b41ac424)
 
-
-
+![Screenshot from 2024-05-09 00-49-53](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/526be913-f758-481f-8173-dcc0808bc44e)
 
 ## Database Model
 
