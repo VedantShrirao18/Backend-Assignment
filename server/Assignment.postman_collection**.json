@@ -1,0 +1,133 @@
+{
+	"info": {
+		"_postman_id": "52a61651-3576-4737-864d-16f452946ff9",
+		"name": "Assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32245829"
+	},
+	"item": [
+		{
+			"name": "http://localhost:3001/assistant/",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"name\": \"Vedant Shrirao\",\n        \"mobile\": \"7741080527\",\n        \"email\": \"vedant@gmail.com\",\n        \"salary\": \"22000.00\",\n        \"city\": \"Nanded\",\n        \"country\": \"India\",\n        \"department\": \"Research\",\n        \"role\": \"junior assistant\"\n }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/assistant/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"assistant",
+						""
+					]
+				},
+				"description": "- **Creates a new record in the database and returns the id of the assistant.**"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3001/assistant/",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/assistant/72",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"assistant",
+						"72"
+					]
+				},
+				"description": "- **Retrieves the details of the assistant with the specified id.**"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3001/assistant/",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\" : \"Ved Shrirao\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/assistant/72",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"assistant",
+						"72"
+					]
+				},
+				"description": "- **Updates the details of the assistant with the specified id.**"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3001/assistant/",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/assistant/72",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"assistant",
+						"72"
+					]
+				},
+				"description": "- **Deletes the record of the assistant with the specified id.**"
+			},
+			"response": []
+		}
+	]
+}
