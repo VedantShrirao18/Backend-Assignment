@@ -91,7 +91,8 @@ Endpoints
 
 ![Screenshot from 2024-05-09 00-49-43](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/f350a1a4-cdf8-4330-90c8-87415f1b92e8)
 
-![Screenshot from 2024-05-09 00-49-53](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/53bbff16-bda7-4801-b938-a4bd71163a0b)
+![Screenshot from 2024-05-09 00-49-53](https://github.com/VedantShrirao18/Backend-Assignment/assets/122175901/04612332-bc96-4609-bb0f-4043f82bfb0c)
+
 
 
 ## Database Model
